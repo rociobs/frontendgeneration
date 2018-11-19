@@ -1,0 +1,12 @@
+<alumnos>
+ <alumno>
+   <apellido> "Alvarez" </apellido>
+   <nombre> "Alvaro" </nombre>
+   <nacimiento>"2014_11_5" </nacimiento>
+  </alumno>
+
+  <alumno>
+   <apellido> "Baena" </apellido>
+  </alumno>
+
+  </alumnos>
